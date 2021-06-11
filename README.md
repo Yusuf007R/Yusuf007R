@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yusuf Rawat
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 28px>, my name is Yusuf Rawat
 ![](https://steamuserimages-a.akamaihd.net/ugc/829074026704790032/E2767709D5439CFF6F4C1635699147228546E1B6/)
 
 Trying to teach my self web development 😳😳
