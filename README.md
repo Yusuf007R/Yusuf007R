@@ -1,6 +1,6 @@
 ## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 28px>, my name is Yusuf Rawat
 <div align="center">
-<img height = "350px" src="https://i.ibb.co/r7NT9tc/tumblr-opbdk1-Ork51w24ssoo4-r1-500.gif" alt="cover" />
+<img height = "350px" src="https://c.tenor.com/9T8nDOeHz-wAAAAd/nino-nakano-nino.gif" alt="cover" />
 </div>
 
 
