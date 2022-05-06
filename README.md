@@ -1,8 +1,8 @@
 ## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 28px>, my name is Yusuf Rawat
-<div align="center">
+<!-- <div align="center">
 <img height = "350px" src="https://c.tenor.com/9T8nDOeHz-wAAAAd/nino-nakano-nino.gif" alt="cover" />
 </div>
-
+ -->
 
 ## About me
 Teaching my self this beautiful world of web development 😳😳
