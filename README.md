@@ -26,7 +26,7 @@ Teaching my self this beautiful world of web development 😳😳
 
 <h2> Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height = 32px> </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf007R&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats-pi-fawn.vercel.app/api?username=Yusuf007R&show_icons=true&theme=dark)  
 
 
 ## A little joke 🥵
